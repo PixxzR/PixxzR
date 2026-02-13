@@ -18,6 +18,9 @@ Parfois c'est utile. Parfois c'est juste pour comprendre comment ca marche.
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=node.js&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
+<img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
+<img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white">
 <img alt="AI / LLM" src="https://img.shields.io/badge/AI%20%2F%20LLM-1a1a2e?style=flat-square&logo=brain&logoColor=white">
 
