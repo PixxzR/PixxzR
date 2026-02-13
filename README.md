@@ -6,7 +6,7 @@ $ whoami
 
 # PixxzR
 
-**Dev · Auto-entrepreneur · Createur**
+**Dev · Auto-entrepreneur · Createur de contenu**
 
 Je build des trucs. Des apps, des outils, des systemes.
 <br>
