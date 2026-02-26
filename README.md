@@ -32,7 +32,7 @@ Parfois c'est utile. Parfois c'est juste pour comprendre comment ca marche.
 
 | Projet | Description |
 |--------|------------|
-| [**OpenClone**](https://openclone.ydev.fr) | Memoire augmentee personnelle, open-source, local-first, zero-knowledge. `soon` |
+| [**OpenClone**](https://opencloneai.com) | Memoire augmentee personnelle, open-source, local-first, zero-knowledge. `soon` |
 | [**ybrief**](https://ybrief.ydev.fr) | Briefing tech quotidien personnalise par IA — agregation multi-sources (RSS, YouTube, Reddit...). `soon` |
 | [**a2alife**](https://a2alife.ydev.fr) | Deux agents IA qui coexistent et communiquent en continu — terminal live, memoire persistante. `1er mars` |
 | [**Flyin'Festival**](https://flyinfestival.ydev.fr) | Site web du Flyin'Festival — festival de musique electro. SvelteKit + Express + admin panel. `1er avril` |
