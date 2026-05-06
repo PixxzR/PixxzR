@@ -39,7 +39,6 @@ Parfois c'est utile. Parfois c'est juste pour comprendre comment ca marche.
 | [**HZO Films**](https://hzofilms.ydev.fr) | Site vitrine d'une boite de production audiovisuelle. SvelteKit + Tailwind |
 | [**NextHome**](https://nexthome.ydev.fr) | Trouver un logement etudiant — detection de dispos + notifications Discord en temps reel |
 | [**Les Radios du Net**](https://radiosdunet.com) | Plateforme de streaming radio en ligne — stations live, jukebox, apps mobile et Alexa |
-| [**CoinVote**](https://coinvote.cc) | Plateforme communautaire de decouverte et vote sur les cryptos, tokens et meme coins |
 | [**France Travail Open Source**](https://france-travail.github.io) | Portail open source de France Travail — catalogue de projets publics, accessibilite, eco-conception et IA |
 
 ### `cat ./focus.md`
